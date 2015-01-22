@@ -26,6 +26,7 @@ This package can be used as submodule
 
 External Dependencies
 ---------------------
+- Linked Network Actor: https://decibel.ni.com/content/docs/DOC-24051
 
 Optional submodules
 -------------------

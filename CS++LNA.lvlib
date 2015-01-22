@@ -11,6 +11,10 @@
 	<Property Name="Enable Data Logging" Type="Bool">true</Property>
 	<Property Name="NI.Lib.Description" Type="Str">This library contains the CS++LNAMessage class to be used to send actor messages with zero coupling.
 
+External Dependencies
+---------------------
+- Linked Network Actor: https://decibel.ni.com/content/docs/DOC-24051
+
 Author: H.Brand@gsi.de, D.Neidherr@gsi.de
 
 Copyright 2015  GSI Helmholtzzentrum für Schwerionenforschung GmbH
