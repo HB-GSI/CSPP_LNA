@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+CS++LNA specific errors dealing with zero coupling AF messages.
+
+<nifamily familyname="CS++LNA" displayname="CS++LNA Range">
+</nifamily>
+</nicomment>
+<nierror code="-8999">
+Class received from Remote LNA not found.
+</nierror>
+<nierror code="-8998">
+Bad typecast of messaged received from Remote LNA. Message.lvclass is expected.
+</nierror>
+<nierror code="-8997">
+Message returned from Remote LNA. Message class name is empty string or malformed.
+</nierror>
+<nierror code="-8996">
+Message returned from Remote LNA. Message class not found or bad typecast.
+</nierror>
+</nidocument>
